@@ -7,12 +7,6 @@ description: "Love is often described as a journey, not a destination. As such,
   alive and flourishing in your relationship:"
 image: dall·e-2022-12-10-12.44.47-dali-painting-of-generational-family-constellation-healing.png
 ---
-
-
-Love is often described as a journey, not a destination. As such, every journey requires effort, attention, and constant nurturing to ensure that the flame of love remains bright and warm. Here are key ways to keep love alive and flourishing in your relationship:
-
-
-
 #### Communicate Openly and Honestly
 
 Remember that communication is the lifeline of any romantic connection. Talk about your feelings, hopes, fears, and desires. Listen actively and validate your partner’s feelings. Sometimes, the simplest act of sharing your day can reinforce the bond you share.
