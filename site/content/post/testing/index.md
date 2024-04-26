@@ -13,3 +13,4 @@ This is a rich text editor.  Looks pretty good.
 `This is code txt`
 
 # This is a heading
+## This is a heading
